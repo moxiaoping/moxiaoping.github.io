@@ -1,2 +1,2 @@
 # moxiaoping.github.io
-莫晓平的博客
+平凡的博客
